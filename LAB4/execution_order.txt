@@ -1,0 +1,9 @@
+changeImage.py  -- change images
+supplier_image_upload.py -- upload photos
+run.py -- extract and upload descriptions
+
+report_email.py -- all other dependencies are in main functions
+    reports.py
+    emails.py
+
+health_check.py
